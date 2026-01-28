@@ -1,0 +1,9 @@
+{
+  "name": "web-don-gian-html",
+  "version": "1.0.0",
+  "description": "Web HTML don gian",
+  "scripts": {
+    "start": "echo 'Static HTML site'"
+  },
+  "dependencies": {}
+}
